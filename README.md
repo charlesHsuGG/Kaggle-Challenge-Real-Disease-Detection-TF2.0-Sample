@@ -15,7 +15,7 @@ dataset folders structure can follow as:
 # Expirement Result
   this expirement only using 20 epochs
   I think result can be improvement
-  maybe using more model to stacking or more epochs
+  maybe using more model to stacking or more epochs to training(it can be better loss).
   
   expirement result is:
   ```
