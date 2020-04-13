@@ -1,4 +1,4 @@
-# Kaggle-Challenge-Real-Disease-Detection
+# Kaggle-Challenge-Real-Disease-Detection-TF2.0-Sample
 this is simple sample for analysis and predict for real disease game
 
 # DataSet
